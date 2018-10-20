@@ -1,5 +1,5 @@
 #Personal Porfolio
-Check [here](https://https://carlyadam.github.io) for details.
+[Details](https://https://carlyadam.github.io) for details.
 
 ## Thanks to TemplateMag
 ```
